@@ -366,6 +366,7 @@ section.explain__session {
     line-height: 35px;
     letter-spacing: 2px;
     font-weight: 300;
+    font-size: 80%;
     text-shadow: 5px 5px 15px #222, 5px 5px 15px #222;
 }
 
